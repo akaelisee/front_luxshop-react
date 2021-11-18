@@ -1,5 +1,5 @@
-// @ts-nocheck
 /* eslint-disable react/prop-types */
+// @ts-nocheck
 import React, { useState } from 'react'
 import axios from '../services/axios'
 import request from '../services/requests'
