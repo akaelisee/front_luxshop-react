@@ -10,7 +10,7 @@ const BtnCard = ({ addCard, setIsCard }) => {
     <div>
       <Button
         onClick={() => {
-          dispatch(addCard), setIsCard(true)
+          return dispatch(addCard), setIsCard(true)
         }}
       >
         Acheter maintenant
