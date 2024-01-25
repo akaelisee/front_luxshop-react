@@ -18,4 +18,4 @@ Aka Jean Elisée
 netlify pour le front et Heroku pour le back
 
 ## `Lien du project`
-Cliquez ici -->  [https://luxshops.netlify.app/](https://luxshops.netlify.app/).
+Cliquez ici -->  [https://luxshop-app.netlify.app/](https://luxshop-app.netlify.app/).
